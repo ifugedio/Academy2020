@@ -1,2 +1,3 @@
 tento text som pridal lokalne
 tento text som pridal na servri
+zmena
